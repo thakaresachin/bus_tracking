@@ -1,0 +1,41 @@
+.main-services {
+  padding-top: 17.5rem;
+  flex-wrap: wrap;
+}
+
+.services-heading {
+  padding-left: 45rem;
+  /* left: 40rem; */
+  padding-top: 1.8rem;
+  width: 102%;
+  margin: auto;
+  height: 5rem;
+  /* background-color: #a9aeba; */
+  font-size: 2rem;
+  font-weight: 3rem;
+  /* margin: 50%; */
+
+  position: absolute;
+  text-align: center;
+
+}
+
+.container img {
+  height: 15rem;
+  position: absolute;
+}
+
+.text {
+  /* height: 15rem; */
+  position: relative;
+  /* font-size: 6rem; */
+}
+
+.container {
+  /* background-color: red;  */
+  padding: 5rem 7rem 5rem 6rem;
+  /* margin-left: 5rem; */
+  /* margin-right: 40rem; */
+  width: 30%;
+
+}
